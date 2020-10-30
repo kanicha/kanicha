@@ -1,4 +1,5 @@
-hi there !
+*hi there !*
+
 ## :clipboard:Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanicha&count_private=true&theme=algolia)
 
