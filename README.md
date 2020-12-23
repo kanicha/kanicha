@@ -9,6 +9,7 @@ Copyright 2020 kanicha
 
 ## :pencil2:Main Language
 ・C#
-(2020/03 ~)
+(2020/03 ~)  
+
 ・C++
 (2020/05 ~)
