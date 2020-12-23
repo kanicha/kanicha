@@ -6,3 +6,9 @@
 ## :ledger:License
 Copyright 2020 kanicha  
 [MIT Licence](https://opensource.org/licenses/MIT "MIT LICENCE")
+
+## :pencil2:Main Language
+・C#
+(2020/03 ~)
+・C++
+(2020/05 ~)
