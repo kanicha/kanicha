@@ -7,7 +7,7 @@
 Copyright 2020 kanicha  
 [MIT Licence](https://opensource.org/licenses/MIT "MIT LICENCE")
 
-## :pencil2:Main Language
+## :pencil2:Language
 ・C#
 (2020/03 ~)  
 
