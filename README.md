@@ -1,8 +1,8 @@
 **hi there I'm kanicha!**
 
 ## :clipboard:Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanicha&count_private=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanicha)]
+![kanicha's github stats](https://github-readme-stats.vercel.app/api?username=kanicha&count_private=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanichalayout=compact&theme=algolia)]
 
 ## :pencil2:Language
 ・C#
