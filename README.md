@@ -1,4 +1,5 @@
-**hi there I'm kanicha!**
+**hi there I'm kanicha!**  
+My Portflio Page! -> https://kanicha.github.io/
 
 ## :clipboard:Stats
 ![kanicha's github stats](https://github-readme-stats.vercel.app/api?username=kanicha&count_private=true&theme=algolia)
