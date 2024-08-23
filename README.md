@@ -14,9 +14,3 @@ My Portfolio Page! -> https://kanicha.github.io/
 
 ・JavaScript
 (2021/01 ~ )
-
-・Java
-(2021/07 ~ )
-
-・Python
-(2021/10 ~ )
