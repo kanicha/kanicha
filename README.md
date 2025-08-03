@@ -8,9 +8,3 @@ My Portfolio Page! -> https://kanicha.github.io/
 ## :pencil2:Language
 ・C#
 (2020/03 ~)  
-
-・C++
-(2020/05 ~)
-
-・JavaScript
-(2021/01 ~ )
