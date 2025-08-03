@@ -6,14 +6,14 @@ My Portfolio Page! -> https://kanicha.github.io/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanicha&layout=compact&hide=html&theme=algolia)
 
 ## :pencil2:Skills
-・C#
-・Unity
-・MarkDown
-・Draw.io
+・C#  
+・Unity  
+・MarkDown  
+・Draw.io  
 
-## :puzzle_piece:Studying
-・C++
-・Ruby on Rails
-・Docker
-・TypeScript
-・JavaScript
+## :pencil2:Studying
+・C++  
+・Ruby on Rails  
+・Docker  
+・TypeScript  
+・JavaScript  
