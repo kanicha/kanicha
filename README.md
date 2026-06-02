@@ -11,6 +11,8 @@ My Portfolio Page! -> https://kanicha.github.io/
 ・MarkDown  
 ・Draw.io  
 ・GooglePlayStore/AppleStoreConnect  
+etc ...
+
 
 ## :pencil2:Studying
 ・C++  
