@@ -10,6 +10,7 @@ My Portfolio Page! -> https://kanicha.github.io/
 ・Unity  
 ・MarkDown  
 ・Draw.io  
+・GooglePlayStore/AppleStoreConnect  
 
 ## :pencil2:Studying
 ・C++  
